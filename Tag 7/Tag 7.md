@@ -180,6 +180,21 @@ Ein schnelles Backup des gesamten Dateisystems oder der Datenbankdateien zu eine
 
 
 
+## Daten normalisiert einbinden (DB Freifächer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Checkpoint-Fragen
 **Unterschied logisches vs. physisches Backup**
 
@@ -217,6 +232,8 @@ Exportiert Ergebnisse einer SELECT-Abfrage direkt in eine Datei auf dem Server:
 ```sql
 SELECT * FROM tabelle INTO OUTFILE 'C:/Pfad/ausgabe.csv';
 ```
+
+
 
 
 
