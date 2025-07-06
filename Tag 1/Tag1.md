@@ -1,8 +1,13 @@
 # Tag 1 – Einführung & Repetition M162
 
-**Datum:** 13.05.2025  
-**Thema:** Einführung in das Modul, Repetition von M162, DB-Installation, Datenmodellierung, Normalisierung  
-**Tools:** MySQL/MariaDB, XAMPP, Docker, AWS, MySQL Workbench, Miro
+- **Name:** Daphne Sibel McNamara
+- **Klasse:** AP 24b
+- **Modul:** 164 – Datenbanken erstellen und Daten einfügen  
+- **Datum:** 13.05.2025  
+- **Thema:** Einführung in das Modul, Repetition von M162, DB-Installation, Datenmodellierung, Normalisierung  
+- **Tools:** MySQL/MariaDB, XAMPP, Docker, AWS, MySQL Workbench, Miro
+- Miro-Board: https://miro.com/app/board/uXjVI29IW6Y=/
+---
 
 ---
 
