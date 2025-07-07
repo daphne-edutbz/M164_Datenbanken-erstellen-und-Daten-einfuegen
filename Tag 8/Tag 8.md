@@ -19,6 +19,9 @@
 - Freifächer (Auszug).csv
 
 
+![image](https://github.com/user-attachments/assets/1ed369eb-3289-4588-ad44-b60410c66531)
+
+
 2. Logisches ERD (2NF)
 Ich habe aus der 1NF die Tabellen in die 2. Normalform gebracht. Abhängigkeiten von Teil-Schlüsseln wurden entfernt. Redundanz wurde eliminiert.
   
