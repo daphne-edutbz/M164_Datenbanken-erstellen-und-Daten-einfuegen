@@ -1,0 +1,30 @@
+﻿FK_Klassenlehrerin,,,,,,,
+ID_Lehrer,Vorname,Nachname,ID_Freifach,Freifach,ID_TT,Tag,Zimmer
+1, Theo,Lempel,2,Tanz,1,Mo,112
+2,  Guido,Breier,3,Chor,2,Mi,Aula
+1, Theo,Lempel,"1
+2
+3","Elektronik
+Tanz
+Chor",,"Di
+Mo
+Mi","110
+112
+Aula"
+3, Inge,Sommer,2,Tanz,,Mo,112
+2, Guido,Breier,1,Elektronik,,Di,110
+3, Inge,Sommer,"3
+4","Chor
+Mathe",,"Mi
+Do","Aula
+119"
+4, Franz,Klausen,"1
+4","Elektronik
+Mathe",,"Di
+Do","110
+119"
+4, Franz,Klausen,"1
+4","Elektronik
+Mathe",,"Di
+Do","110
+119"
